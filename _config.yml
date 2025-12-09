@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Jie Fei"
   pronouns         : "He/His/Him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD Student"
+  location         : "Boston, Massachusetts"
+  employer         : "Boston University"
   uri              : # URL
   email            : "none@example.org" 
 
