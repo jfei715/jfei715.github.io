@@ -11,9 +11,9 @@ I am a Rehabilitation Sciences PhD student in the [Neuromotor Recovery Laborator
 
 I received my Master of Science in Biomedical Engineering from [Washington University in St. Louis (USA)](https://washu.edu/) in 2023 and my Bachelor of Engineering in Biomedical Engineering from Xuzhou Medical University (China) in 2019. I also bring approximately two years of medical device industry experience from my time at [Johnson & Johnson’s Biosense Webster](https://www.jnjmedtech.com/en-US/companies/biosensewebster).
 
-Research Interests
+Research Interests & Projects
 ------
-* Indirect estimation of propulsion (anterior ground reaction forces) using clinically accessible variables from standard assessments and Inertial Measurement Units (IMUs).
+* Indirect estimation of propulsion (anterior ground reaction forces) using clinically accessible variables from routine assessments and Inertial Measurement Units (IMUs).
 * **G**amified **R**ehabilitation with **E**lectrostimulation for **A**t-home **T**raining (**GREAT**): A gamified neuromotor assessment and training platform using Functional Electrical Stimulation (FES), IMUs, Dynamometer, and Functional Near-Infrared Spectroscopy (fNIRS).
 
 News
