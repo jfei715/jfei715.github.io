@@ -24,8 +24,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jie Fei"
-  pronouns         : "He/His/Him"  
+  name             : "Jie Fei (He/His/Him)"
+  # pronouns         : "He/His/Him"  
   bio              : "PhD Student"
   location         : "Boston, Massachusetts"
   employer         : "Boston University"
