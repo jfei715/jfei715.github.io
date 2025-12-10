@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Jie Fei is a Rehabilitation Sciences Ph.D. student in the Neuromotor Recovery Laboratory, mentored by Dr. Lou Awad at Boston University. Jie received his master's degree in Biomedical Engineering from Washington University in St. Louis. Additionally, he has around two years of industry experience in medical devices at Johnson & Johnson. Jie is passionate about developing and validating advanced rehabilitation strategies and tools tailored for individuals affected by neurological diseases that result in movement disorders. This involves the integration of various neurorehabilitation technologies, including soft robotic exosuits, functional electrical stimulation (FES), inertial measurement units (IMUs), electromyography (EMGs), 3D motion capture systems, video games, and more. In his leisure time, he enjoys movies, DIY projects, hiking, and exploring unknown worlds.
+I am a PhD student in the [Neuromotor Recovery Laboratory](https://sites.bu.edu/nrl/) at Boston University and a research fellow at the Harvard [Move Lab](https://www.movelab.seas.harvard.edu/).
+
 
 News
 ------
