@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD student in the [Neuromotor Recovery Laboratory](https://sites.bu.edu/nrl/) at Boston University and a research fellow at the Harvard [Move Lab](https://www.movelab.seas.harvard.edu/). I am passionate about developing and validating advanced rehabilitation strategies and technologies tailored to individuals with neurological diseases that lead to movement impairments.
 
-I received my Master of Science in Biomedical Engineering from [Washington University in St. Louis (USA)](https://washu.edu/) in 2023 and my Bachelor of Engineering in Biomedical Engineering from Xuzhou Medical University in 2019. I also bring approximately two years of medical device industry experience from my time at [Johnson & Johnson’s Biosense Webster](https://www.jnjmedtech.com/en-US/companies/biosensewebster).
+I received my Master of Science in Biomedical Engineering from [Washington University in St. Louis (USA)](https://washu.edu/) in 2023 and my Bachelor of Engineering in Biomedical Engineering from Xuzhou Medical University (China) in 2019. I also bring approximately two years of medical device industry experience from my time at [Johnson & Johnson’s Biosense Webster](https://www.jnjmedtech.com/en-US/companies/biosensewebster).
 
 News
 ------
