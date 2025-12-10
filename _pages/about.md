@@ -18,4 +18,4 @@ Research Interests
 
 News
 ------
-* **2025/12/03:**  I was awarded a two-year [American Heart Association (AHA) Predoctoral Fellowship](https://professional.heart.org/en/research-programs/aha-funding-opportunities/predoctoral-fellowship) for my project titled "Empowering Recovery at Home: A Gamified Neurostimulation Platform for Post-Stroke Neuromotor Assessment and Training". 
+* **2025/12/03:**  I was awarded a two-year [American Heart Association (AHA) Predoctoral Fellowship](https://professional.heart.org/en/research-programs/aha-funding-opportunities/predoctoral-fellowship) for my project titled "_Empowering Recovery at Home: A Gamified Neurostimulation Platform for Post-Stroke Neuromotor Assessment and Training_". 
