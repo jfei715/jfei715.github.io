@@ -14,7 +14,7 @@ I received my Master of Science in Biomedical Engineering from [Washington Unive
 Research Interests & Projects
 ------
 * Indirect estimation of propulsion (anterior ground reaction forces) using clinically accessible variables from routine assessments and Inertial Measurement Units (IMUs).
-* **G**amified **R**ehabilitation with **E**lectrostimulation for **A**t-home **T**raining (**GREAT**): A gamified neuromotor assessment and training platform using Functional Electrical Stimulation (FES), IMUs, Dynamometer, and Functional Near-Infrared Spectroscopy (fNIRS).
+* **G**amified **R**ehabilitation with **E**lectrostimulation for **A**t-home **T**raining (**GREAT**): A gamified neuromotor assessment and training platform using Functional Electrical Stimulation (FES), IMUs, dynamometer, and Functional Near-Infrared Spectroscopy (fNIRS).
 
 News
 ------
