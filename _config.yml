@@ -23,7 +23,7 @@ repository               : "jfei715.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.png"
+  avatar           : "favicon-192x192.png"
   name             : "Jie Fei (He/His/Him)"
   # pronouns         : "He/His/Him"  
   bio              : "PhD Student"
