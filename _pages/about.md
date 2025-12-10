@@ -13,8 +13,8 @@ I received my Master of Science in Biomedical Engineering from [Washington Unive
 
 Research Interests
 ------
-1. Indirect estimation of propulsion (anterior ground reaction forces) using clinically accessible variables from standard assessments and inertial measurement units (IMUs).
-2. **G**amified **R**ehabilitation with **E**lectrostimulation for **A**t-home **T**raining (GREAT)
+1. Indirect estimation of propulsion (anterior ground reaction forces) using clinically accessible variables from standard assessments and inertial measurement units (IMUs)
+2. **G**amified **R**ehabilitation with **E**lectrostimulation for **A**t-home **T**raining (GREAT): A Gamified Neurostimulation Platform for Post-Stroke Neuromotor Assessment and Training
 
 News
 ------
